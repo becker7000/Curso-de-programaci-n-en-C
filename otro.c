@@ -2,8 +2,8 @@
 
 int main(){
 
-    int x=5;
+    int x=28;
     printf("\n\t x = %d",x);
-    
+
     return 0;
 }

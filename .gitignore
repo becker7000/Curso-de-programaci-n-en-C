@@ -1,1 +1,2 @@
-.exe
+#ignorando los ejecutables...
+*.exe
