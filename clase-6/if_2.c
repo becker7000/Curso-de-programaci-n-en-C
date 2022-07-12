@@ -14,6 +14,7 @@ int main(){
     else
         printf("\n\t El numero es impar...");
 
+
     printf("\n\n");
     return 0;
 
