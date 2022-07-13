@@ -6,30 +6,28 @@ Los operadores lógicos son operadores que nos devuelven un valor booleano (verd
 * Este operador es un operador binario y es infijo (va en medio)...
 
 * Tabla de verdad:
-```
-    | x | y | x&&y |
-    |---|---|------|
-    | V | V |  V   |
-    | V | F |  F   |
-    | F | V |  F   |
-    | F | F |  F   | 
+   
+    | x  |  y | x&&y |
+    |:--:|:--:|:----:|
+    | V  | V  |  V   |
+    | V  | F  |  F   |
+    | F  | V  |  F   |
+    | F  | F  |  F   | 
 
-```
 
 ### Operador OR (||)
 
 * Este operador es un operador binario y es infijo (va en medio)...
 
 * Tabla de verdad:
-```
-    | x | y | x||y |
-    |---|---|------|
-    | V | V |  V   |
-    | V | F |  V   |
-    | F | V |  V   |
-    | F | F |  F   | 
 
-```
+    |  x  |  y  |  x\|\|y  |
+    |:---:|:---:|:----:|
+    |  V  |  V  |   V  |
+    |  V  |  F  |   V  |
+    |  F  |  V  |   V  |
+    |  F  |  F  |   F  | 
+
 
 ### Operador NOT (!)
 
@@ -37,11 +35,10 @@ Los operadores lógicos son operadores que nos devuelven un valor booleano (verd
 
 * Tabla de verdad:
 
-```
-    | x | !x |
-    |---|----|
-    | V |  F |
-    | F |  V |
 
-```
+    | x  | !x |
+    |:--:|:--:|
+    | V  |  F |
+    | F  |  V |
+
 
