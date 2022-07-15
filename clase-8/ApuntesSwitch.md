@@ -1,4 +1,3 @@
-
 ## Switch
 
 Exite algo llamado latencia: que es la suma de retardos parciales al momento de transmitir datos... estos datos viajan en paquetes (tramas).
@@ -27,7 +26,7 @@ if(condicion_1){
 
 ```c
 
-int opcion; // Selector
+int opcion; // Selector sólamente acepta (int y char)
 
 switch(opcion){
     case 1: // n sentencias
@@ -42,5 +41,3 @@ switch(opcion){
 }
 
 ```
-
-
