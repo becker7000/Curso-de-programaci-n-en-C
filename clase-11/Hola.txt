@@ -1,0 +1,19 @@
+
+Hola
+
+En este curso de 
+lenguaje C hemos 
+visto todas las 
+estructuras de 
+control como if, 
+switch, while, 
+for, do-while, etc
+
+La programacion es 
+un habilidad, no se 
+puede (es imposible)
+aprender solo viendo...
+
+La informacion de este
+este archivo sera 
+leeida por un programa...
